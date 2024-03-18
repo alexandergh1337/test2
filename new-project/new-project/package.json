@@ -1,0 +1,23 @@
+{
+  "name": "my-new-project",
+  "version": "1.0.0",
+  "description": "123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandergh1337/test2.git"
+  },
+  "author": "alexandergh1337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandergh1337/test2/issues"
+  },
+  "homepage": "https://github.com/alexandergh1337/test2#readme",
+  "devDependencies": {
+    "mocha": "^10.3.0"
+  }
+}
